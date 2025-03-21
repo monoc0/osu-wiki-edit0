@@ -1,4 +1,8 @@
 # osu!stream
+---
+needs_cleanup: true  # https://github.com/ppy/osu-wiki/issues/9918, also, strange descriptions in many places and unhelpful order if you're trying to see what this game mode is all about.
+---
+
 
 *For the list of songs featured in the game, see: [osu!stream song list](/wiki/osu!stream/Song_List)*
 
